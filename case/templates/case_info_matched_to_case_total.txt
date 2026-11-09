@@ -1,0 +1,112 @@
+| No. | Chinese            | English                                            | Time               | Predecessors          | Successors            | Status/Notes              |
+| --- | ------------------ | -------------------------------------------------- | ------------------ | --------------------- | --------------------- | ------------------------- |
+| 1   | 车下吹扫               | Underframe blow-off cleaning                       | 180 min/train      | —                     | 3                     | Clear                     |
+| 2   | 拆除受电弓、空调           | Remove pantograph & A/C units                      | 600 min/train      | —                     | 92, 93                | Clear                     |
+| 3   | 入库                 | Receiving into depot                               | 30 min/train       | 1                     | 4                     | Clear                     |
+| 4   | 单元解编               | Unit separation                                    | 50 min/train       | 3                     | 5                     | Clear                     |
+| 5   | 车体与转向架连接件分离        | Disconnect carbody-bogie connections               | 240 min/train      | 4                     | 6                     | Clear                     |
+| 6   | 转向架下车              | Remove bogie                                       | 30 min/unit        | 5                     | 7, 8, 14, 16, 82      | Clear                     |
+| 7   | 中心销清洁及探伤           | Center pin cleaning & NDT                          | 5 min/item         | 6                     | 101                   | Clear                     |
+| 8   | 工艺转向架上车            | Install process bogie                              | 30 min/unit        | 6                     | 9, 10, 11, 12, 88, 89 | Clear                     |
+| 9   | 拆车体附件              | Remove carbody fittings                            | 30 min/unit        | 8                     | 委外检修                  | Clear                     |
+| 10  | 垂向减振器拆卸            | Remove vertical damper                             | 2 min/item         | 8                     | 委外检修                  | Clear                     |
+| 11  | 拆卸垂直连杆             | Remove vertical link rod                           | 2 min/item         | 8                     | 委外检修                  | Clear                     |
+| 12  | 车钩下车               | Remove coupler                                     | 15 min/item     | 8                     | 94, 13                | Clear                     |
+| 13  | 车钩上车               | Install coupler                                    | 20 min/item  | 12                    | 106                   | Clear                     |
+| 14  | 联轴节分离              | Disconnect coupling                                | 15 min/item        | 6                     | 15                    | Clear                     |
+| 15  | 拆电机吊杆及电机           | Remove motor hanger rod & traction motor           | 10 min/item        | 14                    | 66                    | Clear                     |
+| 16  | 制动器拆解              | Brake unit disassembly                             | 40 min/bogie       | 6                     | 17, 75                | Clear                     |
+| 17  | 横向油压减振器拆卸          | Remove lateral hydraulic damper                    | 10 min/bogie       | 16                    | 18                    | Clear                     |
+| 18  | 拆卸齿轮箱吊杆的安装螺栓       | Remove gearbox hanger-rod mounting bolts           | 6 min/bogie        | 17                    | 19                    | Clear                     |
+| 19  | 清洗前防护              | Pre-cleaning protection                            | 3 min/bogie        | 18                    | 20                    | Clear                     |
+| 20  | 转向架整体清洗            | Overall bogie cleaning                             | 60 min/unit        | 19                    | 21                    | Clear                     |
+| 21  | 齿轮箱吊杆拆卸            | Remove gearbox hanger rod                          | 15 min/bogie       | 20                    | 22                    | Clear                     |
+| 22  | 轮对与转架分离            | Separate wheelsets from frame                      | 15 min/bogie       | 21                    | 23, 41                | Clear                     |
+| 23  | 垂向减振器的安装座拆卸        | Remove vertical damper mounting seat               | 15 min/bogie       | 22                    | 24                    | Clear                     |
+| 24  | 横向减振器的安装座拆卸        | Remove lateral damper mounting seat                | 5 min/bogie        | 23                    | 25                    | Clear                     |
+| 25  | 拆一系簧               | Remove primary spring                              | 16 min/bogie       | 24                    | 26                    | Clear                     |
+| 26  | 二系簧拆卸              | Remove secondary spring                            | 8 min/bogie        | 25                    | 27                    | Clear                     |
+| 27  | 抗侧滚扭杆拆卸            | Remove anti-roll torsion bar                       | 10 min/bogie       | 26                    | 28                    | Clear                     |
+| 28  | 牵引杆拆卸              | Remove traction rod                                | 10 min/bogie       | 27                    | 29                    | Clear                     |
+| 29  | 涡流探伤               | Eddy-current NDT                                   | 15 min/frame       | 28                    | 30                    | Clear                     |
+| 30  | 构架尺寸测量             | Frame dimensional measurement                      | 30 min/frame       | 29                    | 31                    | Clear                     |
+| 31  | 抗侧滚扭杆安装            | Install anti-roll torsion bar                      | 13 min/item        | 30                    | 32                    | Clear                     |
+| 32  | 二系簧安装              | Install secondary spring                           | 8 min/bogie        | 31                    | 33                    | Clear                     |
+| 33  | 牵引杆安装              | Install traction rod                               | 15 min/item        | 32                    | 34                    | Clear                     |
+| 34  | 一系簧安装              | Install primary spring                             | 23 min/bogie       | 33                    | 35                    | Clear                     |
+| 35  | 垂减座安装              | Install vertical damper seat                       | 10 min/bogie       | 34                    | 36                    | Clear                     |
+| 36  | 横减座安装和紧固           | Install & tighten lateral damper seat              | 10 min/bogie     | 35                    | 37                    | Clear                     |
+| 37  | 横向止挡检查并紧固          | Inspect & tighten lateral stop                     | 5 min/bogie        | 36                    | 38                    | Clear                     |
+| 38  | 构架补漆               | Frame touch-up painting                            | 5 min/bogie        | 37                    | 39                    | Clear                     |
+| 39  | 制动器的安装             | Install brake unit                                 | 40 min/bogie       | 38                    | 40                    | Clear                     |
+| 40  | 传感器插头清洁            | Clean sensor connector                             | 5 min/bogie        | 39                    | 83                    | Clear                     |
+| 41  | 轴箱拆卸               | Remove axlebox                                     | 30 min/wheelset    | 22                    | 42, 43                | Clear                     |
+| 42  | 轴承拆卸               | Remove bearing                                     | 12 min/wheelset    | 41                    | 45                    | Clear                     |
+| 43  | 轴箱脱漆和探伤            | Axlebox paint stripping & NDT                      | 2.5 h/wheelset     | 41                    | 44                    | Clear                     |
+| 44  | 轴箱及端盖除锈            | Rust removal of axlebox & end cover                | 20 min/item     | 43                    | 48                    | Clear                     |
+| 45  | 轮对探伤前清洁            | Pre-NDT cleaning of wheelset                       | 30 min/wheelset    | 42                    | 46                    | Clear                     |
+| 46  | 轮对荧光磁粉探伤           | Fluorescent magnetic-particle NDT of wheelset      | 10 min/wheelset    | 45                    | 47                    | Clear                     |
+| 47  | 轮对超声探伤             | Ultrasonic NDT of wheelset                         | 4 min/wheelset     | 46                    | 48                    | Clear                     |
+| 48  | 轮对、轴箱座、轴承存放        | Wheelset, axlebox seat & bearing storage           | 20 min/set         | 44, 47                | 49                    | Clear                     |
+| 49  | 轴箱内壁孔径测量           | Measure axlebox inner bore                         | 6 min/axlebox      | 48                    | 50                    | Clear                     |
+| 50  | 轴承安装到轴箱内           | Install bearing into axlebox                       | 10 min/axlebox     | 49                    | 51                    | Clear                     |
+| 51  | 轮对轴径打磨             | Grind axle journal                                 | 10 min/wheelset    | 50                    | 52                    | Clear                     |
+| 52  | 测量轮颈尺寸             | Measure axle journal dimensions                    | 10 min/wheelset    | 51                    | 53                    | Clear                     |
+| 53  | 轮对与轴箱组装            | Assemble wheelset & axlebox                        | 30 min/wheelset    | 52                    | 54                    | Clear                     |
+| 54  | 速度传感器安装            | Install speed sensor                               | 20 min/wheelset    | 53                    | 55                    | Clear                     |
+| 55  | 接地装置安装             | Install grounding device                           | 25 min/wheelset    | 54                    | 56                    | Clear                     |
+| 56  | ATO信号传感器端盖安装       | Install ATO signal sensor end cover                | 10 min/wheelset    | 55                    | 57                    | Clear                     |
+| 57  | 速度传感器及接地信号清洁       | Clean speed sensor & grounding signals             | 20 min/wheelset    | 56                    | 58                    | Clear                     |
+| 58  | 测量轮对尺寸             | Measure wheelset dimensions                        | 4 min/wheelset     | 57                    | 59                    | Clear                     |
+| 59  | 跑合试验               | Running-in test                                    | 32 min/wheelset | 58                    | 60                    | Clear                     |
+| 60  | 轮对清洁               | Wheelset cleaning                                  | 30 min/wheelset    | 59                    | 61                    | Clear                     |
+| 61  | 轮对齿轮面检查            | Inspect wheelset gear surface                      | 30 min/wheelset    | 60                    | 62                    | Clear                     |
+| 62  | 外观补漆               | Appearance touch-up painting                       | 5 min/wheelset     | 61                    | 63                    | Clear                     |
+| 63  | 联轴节清理及端盖安装         | Clean coupling & install end cover                 | 25 min/wheelset    | 62                    | 64                    | Clear                     |
+| 64  | 连接轴箱接地装置线缆         | Connect axlebox grounding cable                    | 15 min/axlebox     | 63                    | 65                    | Clear                     |
+| 65  | 连接轴箱速度传感器线缆        | Connect axlebox speed sensor cable                 | 15 min/wheelset    | 64                    | 83                    | Clear                     |
+| 66  | 电机表面清洁             | Traction motor surface cleaning                    | 20 min/item  | 15                    | 67                    | Clear                     |
+| 67  | 拆卸联轴节              | Remove coupling                                    | 40 min/item        | 66                    | 68                    | Clear                     |
+| 68  | 牵引电机分解             | Traction motor disassembly                         | 90 min/item        | 67                    | 69                    | Clear                     |
+| 69  | 定、转子吹扫             | Blow-clean stator & rotor                          | 90 min/set         | 68                    | 70                    | Clear                     |
+| 70  | 端盖及小部件清洗           | Clean end cover & small parts                      | 40 min/set         | 69                    | 71                    | Clear                     |
+| 71  | 更换轴承               | Replace bearing                                    | 60 min/item        | 70                    | 72                    | Clear                     |
+| 72  | 定、转子装配             | Assemble stator & rotor                            | 90 min/item        | 71                    | 73                    | Clear                     |
+| 73  | 综合试验台试验            | Integrated test-bench test                         | 80 min/item        | 72                    | 74                    | Clear                     |
+| 74  | 联轴节压装              | Press-fit coupling                                 | 90 min/item        | 73                    | 83                    | Clear                     |
+| 75  | 制动器粗洗              | Rough cleaning of brake unit                       | 15 min/item        | 16                    | 76                    | Clear                     |
+| 76  | 待修品存放              | Storage for repair                                 | 10 min/item        | 75                    | 77                    | Clear                     |
+| 77  | 分解                 | Disassembly                                        | 30 min/item        | 76                    | 78                    | Clear                     |
+| 78  | 制动器拆解后精洗           | Fine cleaning after brake disassembly              | 50 min/item        | 77                    | 79                    | Clear                     |
+| 79  | 小部件的预组装台           | Small-part pre-assembly                            | 40 min/item        | 78                    | 80                    | Clear                     |
+| 80  | 总组装                | Final assembly                                     | 3 h/item           | 79                    | 81                    | Clear                     |
+| 81  | 制动器试验              | Brake unit test                                    | 2 h/item           | 80                    | —                     | Clear                     |
+| 82  | 阀类检修               | Valve overhaul                                     | 3 h/item           | 6                     | 103                   | Clear                     |
+| 83  | 构架与轮对组装            | Assemble frame & wheelsets                         | 20 min/bogie       | 74, 40, 65, 待架构与轮对检修完 | 84                    | Clear                     |
+| 84  | 电机落成               | Motor installation                                 | 20 min/bogie       | 83                    | 85                    | Clear                     |
+| 85  | 转向架静压              | Bogie static load test                             | 30–60 min/bogie    | 84                    | 86                    | Clear                     |
+| 86  | 转向架静压后组装           | Post-static-load bogie assembly                    | 3 h/bogie          | 85                    | 87                    | Clear                     |
+| 87  | 气密性测试              | Airtightness test                                  | 20 min/bogie       | 86                    | 102                   | Clear                     |
+| 88  | 车厢内检修              | Interior overhaul                                  | 6 h/carbody        | 8                     | 102                   | Clear                     |
+| 89  | 车下整体清洁             | Overall underbody cleaning                         | 10 h/carbody       | 8                     | 90                    | Clear                     |
+| 90  | AB箱、PH箱、PA箱、及其线槽检修 | Overhaul AB/PH/PA boxes & cable troughs            | 6 h/carbody        | 89                    | 91                    | Clear                     |
+| 91  | 高低压接线箱检修           | Overhaul high-/low-voltage junction box            | 6 h/carbody      | 90                    | 101                   | Clear                     |
+| 92  | 空调检修               | A/C unit overhaul                                  | 2 h/set            | 2                     | 委外检修                  | Clear                     |
+| 93  | 受电弓检修              | Pantograph overhaul                                | 6 h/set            | 2                     | 106                   | Clear                     |
+| 94  | 待修品存放              | Storage for repair                                 | 10 min/set         | 12                    | 95                    | Clear                     |
+| 95  | 车钩分解               | Coupler disassembly                                | 1 h/set            | 94                    | 96                    | Clear                     |
+| 96  | 粗洗                 | Rough cleaning                                     | 3 h/set          | 95                    | 97                    | Clear                     |
+| 97  | 车钩探伤及补漆            | Coupler NDT & touch-up painting                    | 2 h/set            | 96                    | 98, 99                | Clear                     |
+| 98  | 半永久车钩组装            | Semi-permanent coupler assembly                    | 3 h/set            | 97                    | 100                   | Clear                     |
+| 99  | 全自动车钩组装            | Automatic coupler assembly                         | 7 h/set            | 97                    | 100                   | Clear                     |
+| 100 | 连挂试验               | Coupling test                                      | 30 min/set         | 98, 99                | 106                   | Clear                     |
+| 101 | 车体附件安装             | Install carbody fittings                           | 45 h/train         | 7, 91, 车体检修完          | 102                   | Clear                     |
+| 102 | 车体落到转向架上           | Lower carbody onto bogies                          | 50 min/unit        | 101, 87, 88           | 103                   | Clear                     |
+| 103 | 转向架与车体各部件连接        | Connect bogie & carbody components                 | 120 min/unit       | 102, 82               | 104                   | Clear                     |
+| 104 | 车体解构和转移            | Carbody transfer & repositioning                   | 35 h/train         | 103                   | 105                   | Clear                     |
+| 105 | 车体称重和高度调节连杆调整      | Carbody weighing & height-adjusting rod adjustment | 100 min/car        | 104                   | 106                   | Clear                     |
+| 106 | 车体连挂               | Carbody coupling                                   | 0                  | 13, 100, 93, 105      | 107                   | Clear                     |
+| 107 | 静调                 | Static adjustment                                  | 19 h/train         | 106                   | —                     | Clear                     |
+| —   | 委外检修               | Outsourced overhaul                                | 0                  | 9, 10, 11, 92         | —                     | Clear; special end node   |
+| —   | 车体检修完              | Carbody overhaul complete                          | 0                  | —                     | 101                   | Clear; special start node |
+| —   | 待架构与轮对检修完          | Frame & wheelset overhaul complete                 | 0                  | —                     | 83                    | Clear; special start node |

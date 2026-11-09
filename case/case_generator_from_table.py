@@ -11,6 +11,8 @@ import re
 from pathlib import Path
 
 # Configuration
+CASE_DIR = Path(__file__).resolve().parent
+
 # 1) Use one job to validate the process graph, then increase NUM_JOBS to
 #    replicate the same process template automatically.
 NUM_JOBS = 20
@@ -24,10 +26,10 @@ MAX_MACHINES_PER_OP = 4
 DEVIATION_RATIO = 0.40
 
 # 4) Input process-table file.
-CASE_INFO_PATH = r"./case_info_matched_to_case_total.txt"
+CASE_INFO_PATH = CASE_DIR / "templates" / "case_info_matched_to_case_total.txt"
 
 # 5) Output directory. Key generation parameters are included in the filename.
-OUTPUT_DIR = r"./case-analysis"
+OUTPUT_DIR = CASE_DIR / "case-analysis"
 
 # 6) Whether to include the special start/end milestones from the source table.
 #    True: include 107 numbered operations and three special milestones.
@@ -305,6 +307,7 @@ for job_id in range(NUM_JOBS):
 
 
 # Instance serialization
+Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
 with open(FILENAME, "w", encoding="utf-8") as f:
     if WRITE_METADATA_COMMENTS:
         f.write(f"# Number of jobs: {NUM_JOBS}\n")

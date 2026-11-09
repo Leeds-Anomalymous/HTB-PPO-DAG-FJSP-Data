@@ -1,6 +1,6 @@
 # Data License
 
-Unless otherwise noted, the instance data in the `LFJS` and `case`
+Unless otherwise noted, the instance data and source process table in the `LFJS` and `case`
 directories are licensed under the Creative Commons Attribution 4.0
 International License (CC BY 4.0).
 
